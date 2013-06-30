@@ -1,0 +1,4 @@
+RoboGuiceTest
+=============
+
+Sample for RoboGuice
